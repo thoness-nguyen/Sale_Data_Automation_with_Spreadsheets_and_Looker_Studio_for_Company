@@ -1,1 +1,1 @@
-# Data_Analystic_Self-Project
+# Data_Analystic_SelfProject
